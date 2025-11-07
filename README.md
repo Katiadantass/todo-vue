@@ -1,38 +1,40 @@
-# todo-vue
+# ✅ Lista de Tarefas - VueJS
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📎 Sumário
 
-## Recommended IDE Setup
+• **📌 Resumo do Projeto**  
+• **📂 Funcionalidades**  
+• **✔️ Tecnologias Utilizadas**  
+• **💻 Execução do Projeto**  
+• **🙋 Autora**
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📌 Resumo do Projeto
 
-## Recommended Browser Setup
+Este projeto foi desenvolvido durante o **Módulo 27 — Visão Geral do VueJS** do curso Full Stack Python da EBAC.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+O objetivo principal deste módulo foi introduzir o desenvolvimento com Vue, aplicado na prática com Vite, explorando conceitos como **componentização**, **comunicação entre componentes**, **props**, **emits**, **reatividade** e organização de um projeto Vue.
 
-## Customize configuration
+Neste projeto foi criada uma **Lista de Tarefas (To-Do List)**, onde é possível cadastrar tarefas, marcar como finalizadas e filtrar entre pendentes e finalizadas.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 📂 Funcionalidades
 
-## Project Setup
+✔️ Cadastrar nova tarefa  
+✔️ Marcar tarefa como finalizada  
+✔️ Filtrar tarefas (todas / pendentes / finalizadas)  
+✔️ Exibe contador de tarefas pendentes  
+✔️ Interface simples e objetiva
 
-```sh
+## ✔️ Tecnologias Utilizadas
+
+• Vue.js 3  
+• Vite  
+• JavaScript ES Modules  
+• HTML5  
+• CSS3  
+• Git e GitHub
+
+## 💻 Execução do Projeto
+
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
