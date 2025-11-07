@@ -36,5 +36,10 @@ Neste projeto foi criada uma **Lista de Tarefas (To-Do List)**, onde é possíve
 ## 💻 Execução do Projeto
 
 npm install
+
 npm run dev
+
+## 🙋 Autora
+
+[Kátia Dantas](https://github.com/Katiadantass)
 
